@@ -1,4 +1,8 @@
 
+# 👋 Hello Dosto!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2496ED&width=435&lines=DevOps+Engineer)](https://git.io/typing-svg)
+
 ## 📦 Containerization
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
